@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Horizon Zero Dawn", 
+      "genre": "action RPG",
+      "platform": "Playstation 4",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Stardew Valley", 
+      "genre": "farming sim",
+      "platform": "PC", 
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "title": "Ghost of Yotei", 
+      "genre": "action-adventure",
+      "platform": "Playstation 5",
+      "userId": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Juliet",
+      "favoriteGenres": "cozy farming sims and action RPGs"
+    },
+    {
+      "id": "2",
+      "name": "Zack",
+      "favoriteGenres": "souls-like RPGs and roguelikes"
+    }
+  ],
+
+  "collection": {
+    "name": "Juliet's Video Games",
+    "creator": "Juliet Heltibridle",
+    "about": "A list of video games owned by Juliet"
+  }
+}
